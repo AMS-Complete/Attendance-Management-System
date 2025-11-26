@@ -11,3 +11,7 @@ The SRS document was developed collaboratively by the team.
 Project Proposal:
 <br>
 Project proposal was written by Zahra bibi.
+<br>
+Data FLow Diagram:
+<br>
+DFD is made by Manahil Zaheer.
