@@ -10,4 +10,4 @@ The SRS document was developed collaboratively by the team.
 <br>
 Project Proposal:
 <br>
-Project proposal was written collaboratively by the team.
+Project proposal was written by Zahra bibi.
