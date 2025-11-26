@@ -6,7 +6,7 @@ Team Members: Zahra Bibi, Manahil Zaheer
 <br>
 Software Requirements Specifications:
 <br>
-The SRS document was developed collaboratively by the team.
+Software Requirements Specification (SRS) document was developed collaboratively and aims to clearly define the functional and non-functional requirements of the system.
 <br>
 Project Proposal:
 <br>
