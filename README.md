@@ -28,6 +28,10 @@ SRSofattendencemanagementsystem is upload by group leader Manahil zaheer with th
 you can watch the flow of project from the link below 
 <br>
 https://drive.google.com/file/d/1YT3pZUaajtHWiKURenk9vUTaSp77Rbt9/view?usp=sharing
+<br>
+you can watch the functionality of the system from the link below 
+<br>
+https://drive.google.com/file/d/1p3Hcjayd1SMk1e4QBjpKvHxsF2Koje7W/view?usp=sharing
 
 
 
