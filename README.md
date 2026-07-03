@@ -23,7 +23,7 @@ use case diagram was prepared by Zahra Bibi rechecked by Manahil zaheer.
 Design Document:
 Design document is prepared by Manahil zaheer and rechecked by Zahra bibi.
 <br>
-SRSofattendencemanagementsystem is upload by group leader Manahil zaheer with the complete sourse code of project
+SRS of attendencemanagementsystem is upload by group leader Manahil zaheer with the complete sourse code of project
 <br>
 you can watch the flow of project from the link below 
 <br>
